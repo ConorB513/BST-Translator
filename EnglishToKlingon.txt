@@ -1,0 +1,10 @@
+apple:'epil nah
+orange:Tera' na'ran
+banana:Banan nah
+toilet:Puchpa'
+start:Wa'dich
+pause:Yev
+stop:Mevyap
+computer:De'wi'
+coffee:Qa'vin
+success:Qapla'
