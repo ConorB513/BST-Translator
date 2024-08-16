@@ -21,7 +21,7 @@ Binary Search Trees, File IO
 
 ## Acknowledgments
 
-*This project was given as an assignment for my Data Structures and Programming (CMPT 225) class 
+*This project was given as an assignment for my Data Structures and Programming class (CMPT 225 - SFU)
 
 *Help splitting strings using find and substr  -> https://www.javatpoint.com/how-to-split-strings-in-cpp
 
