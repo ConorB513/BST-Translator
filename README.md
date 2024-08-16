@@ -1,6 +1,6 @@
 # Binary Search Tree Translator
 
-Translator application that stores pairs of words and their translation in a binary search tree.  
+Translator application that stores words and their translation in a binary search tree.  
 
 ## Description
 
