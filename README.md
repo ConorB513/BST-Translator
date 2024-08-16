@@ -22,7 +22,11 @@ Binary Search Trees, File IO
 ## Acknowledgments
 
 *This project was given as an assignment for my Data Structures and Programming (CMPT 225) class 
+
 *Help splitting strings using find and substr  -> https://www.javatpoint.com/how-to-split-strings-in-cpp
+
 *Code beautify used to format code nicely  -> https://codebeautify.org/cpp-formatter-beautifier
+
 *Help with BSTs -> https://www.geeksforgeeks.org/introduction-to-binary-tree/
+
 *Help with setting parent pointer in the insert method -> https://www.geeksforgeeks.org/binary-search-tree-insert-parent-pointer/
